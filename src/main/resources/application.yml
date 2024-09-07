@@ -89,7 +89,7 @@ xxl:
   
   ### xxl-job executor appname
     executor:
-      appname: generateor_backed
+      appname: generator_backed
   ### xxl-job executor registry-address: default use address to registry , otherwise use ip:port if address is null
       address:
   ### xxl-job executor server-info
